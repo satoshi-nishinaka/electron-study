@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "electron ."
+    "start": "electron .",
+    "build": "tsc"
   },
   "author": "Satoshi Nishinaka",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^23.1.0"
+    "electron": "23.1.0",
+    "typescript": "^4.9.5"
   }
 }

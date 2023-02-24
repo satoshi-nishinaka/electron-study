@@ -1,4 +1,4 @@
-# electron-tutorial
+# electron-study
 
 Electron学習のためのレポジトリ
 
